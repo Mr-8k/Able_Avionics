@@ -1,0 +1,64 @@
+{
+    "displayName": "Jaw",
+    "fluxCapacitors": 11,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "diableavionics_IBBgulf",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "diableavionics_IBBgulf_jaw",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_hexafire2",
+                "WS0002": "diableavionics_hexafire2"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0012": "diableavionics_thunderboltsmall",
+                "WS0013": "diableavionics_thunderboltsmall",
+                "WS0014": "diableavionics_thunderboltsmall",
+                "WS0015": "diableavionics_thunderboltsmall"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0004": "diableavionics_srab",
+                "WS0005": "diableavionics_srab"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_nocturne",
+                "WS0006": "diableavionics_winee",
+                "WS0007": "diableavionics_winee"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0008": "diableavionics_burchel",
+                "WS0009": "diableavionics_burchel",
+                "WS0010": "diableavionics_magicbox",
+                "WS0011": "diableavionics_magicbox",
+                "WS0016": "diableavionics_magicbox",
+                "WS0017": "diableavionics_magicbox"
+            }
+        }
+    ],
+    "wings": [
+        "diableavionics_hoar_wing",
+        "diableavionics_warlust_wing"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "diableavionics_vapor",
+    "hullMods": ["insulatedengine"],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "diableavionics_vapor_standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "diableavionics_gravemg"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "diableavionics_glowtusk"}
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_magicbox",
+                "WS0004": "diableavionics_magicbox"
+            }
+        }
+    ]
+}

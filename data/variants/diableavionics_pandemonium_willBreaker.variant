@@ -1,0 +1,72 @@
+{
+    "displayName": "Will-Breaker",
+    "fluxCapacitors": 30,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "diableavionics_pandemonium",
+    "hullMods": [
+        "advancedoptics",
+        "targetingunit"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "diableavionics_pandemonium_willBreaker",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_opfergv",
+                "WS0004": "diableavionics_opfergv"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_microarrayM",
+                "WS0002": "diableavionics_microarrayM"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_state",
+                "WS0006": "diableavionics_state",
+                "WS0007": "diableavionics_glaux",
+                "WS0008": "diableavionics_glaux",
+                "WS0011": "diableavionics_glaux"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0022": "diableavionics_winee",
+                "WS0023": "diableavionics_winee",
+                "WS0024": "diableavionics_winee",
+                "WS0025": "diableavionics_winee",
+                "WS0034": "diableavionics_nocturne",
+                "WS0035": "diableavionics_nocturne"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "diableavionics_burchel",
+                "WS0013": "diableavionics_burchel",
+                "WS0014": "diableavionics_burchel",
+                "WS0015": "diableavionics_burchel",
+                "WS0030": "diableavionics_burchel",
+                "WS0031": "diableavionics_burchel"
+            }
+        }
+    ],
+    "wings": [
+        "diableavionics_zephyr_wing",
+        "diableavionics_frost_wing",
+        "diableavionics_hoar_wing"
+    ]
+}

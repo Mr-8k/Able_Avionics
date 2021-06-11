@@ -1,0 +1,38 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 6,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "diableavionics_sleet",
+    "hullMods": [
+        "extendedshieldemitter",
+        "fluxbreakers",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "diableavionics_sleet_support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0005": "diableavionics_burchel"}
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_magicbox",
+                "WS0004": "diableavionics_magicbox"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_ibis",
+                "WS0002": "diableavionics_ibis"
+            }
+        }
+    ]
+}

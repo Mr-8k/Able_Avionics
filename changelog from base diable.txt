@@ -1,0 +1,65 @@
+SHIPS
+Frigates
+-Versant
+	- PPT penalty hullmod removed
+	- shield to 360 degrees, omni, 0.8
+-Draft
+	- gains 5 OP
+-Sleet
+	- gain 5 OP
+-Vapor
+	- gain 5 OP
+	- shield arc to 120
+	
+	
+	
+Destroyers
+-Calm 
+	- gains 15 OP 
+	- shield to 0.9
+-Fractus
+	- now has wanzer gantry built in
+-Hayle 
+	- shield to 120 degrees
+	
+	
+Cruisers
+-IBB Gulf
+	- gains 25 OP
+	- shield efficiency to 0.8
+-Daze
+	- gains 10 OP
+-Gust
+	- shield to 0.9
+-Haze
+	- shield to 150 degrees
+	- gains 10 OP
+-Rime
+	- gain 10 OP
+-Storm
+	- gain 15 OP
+	- regain 3rd deck
+	- now 25dp up from 23
+	
+	
+Capitals
+-Maelstrom
+	- shield to 120 degrees, omni
+	- gains 15 OP
+-Pandamonium
+	- shields to 150 degrees, omni, 0.8
+	- deck crew built in
+	- gain 10 op
+	
+	
+	
+ALL SHIPS
+	- gain swaggy new hullmod
+	
+	
+	
+WEAPONS
+	- Micromissiles (all variants)
+		- no longer require flux to fire
+		- lifetime to 25 seconds and range to 5000
+	- Uhlan siege laser is perfectly accurate
