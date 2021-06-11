@@ -2,29 +2,20 @@ package data.hullmods;
 
 import com.fs.starfarer.api.Global;
 import com.fs.starfarer.api.combat.BaseHullMod;
-//import com.fs.starfarer.api.combat.MutableShipStatsAPI;
 import com.fs.starfarer.api.combat.ShipAPI;
 import com.fs.starfarer.api.combat.ShipAPI.HullSize;
 import com.fs.starfarer.api.combat.WeaponAPI.WeaponType;
-import java.awt.Color;
+
+import java.awt.*;
 import java.util.EnumSet;
-import java.util.HashMap;
-//import java.util.HashSet;
-import java.util.Map;
-//import java.util.Set;
+
 
 public class DiableAvionicsUpgrade_Reborn extends BaseHullMod {
 
-//    private final float SHIELD_BONUS_UNFOLD = 200f;
     private final float CHECK=1f;
     private float timer=0, previous=0;
     private final String ID="Target Analysis";
-        
-//    @Override
-//    public void applyEffectsBeforeShipCreation(HullSize hullSize, MutableShipStatsAPI stats, String id) {
-//        //unfold rate
-//        stats.getShieldUnfoldRateMult().modifyPercent(id, SHIELD_BONUS_UNFOLD);	
-//    }
+
     
         private static class BuffData {
         float increment;
