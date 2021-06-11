@@ -1,0 +1,12 @@
+{
+  "id":"Able Avionics - Sandwich edition",
+  "name":"Able Avionics - Sandwich edition",
+  "author":"that one guy",
+  "version":"1.0",
+  "description":"Improves fun by about 25.5%",
+  "gameVersion":"0.95a-RC15",
+    "dependencies":[
+    {"id":"diableavionics", "name":"Diable Avionics"},
+	{"id":"garou", "name":"Garou Labs"}	
+],
+}

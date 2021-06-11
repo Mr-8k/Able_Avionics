@@ -1,0 +1,1 @@
+Able Avionics - Sandwich edition is for implementing the new hullmod on Garou Labs ships
