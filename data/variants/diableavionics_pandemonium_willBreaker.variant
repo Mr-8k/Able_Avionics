@@ -1,12 +1,13 @@
 {
     "displayName": "Will-Breaker",
-    "fluxCapacitors": 30,
+    "fluxCapacitors": 17,
     "fluxVents": 50,
     "goalVariant": true,
     "hullId": "diableavionics_pandemonium",
     "hullMods": [
         "advancedoptics",
-        "targetingunit"
+        "targetingunit",
+        "stabilizedshieldemitter"
     ],
     "permaMods": [],
     "sMods": [],
@@ -67,6 +68,7 @@
     "wings": [
         "diableavionics_zephyr_wing",
         "diableavionics_frost_wing",
-        "diableavionics_hoar_wing"
+        "diableavionics_hoar_wing",
+        "diableavionics_zephyr_wing"
     ]
 }

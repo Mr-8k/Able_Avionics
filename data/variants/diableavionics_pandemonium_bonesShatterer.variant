@@ -1,12 +1,12 @@
 {
     "displayName": "Bone-Smasher",
-    "fluxCapacitors": 5,
+    "fluxCapacitors": 10,
     "fluxVents": 50,
     "goalVariant": true,
     "hullId": "diableavionics_pandemonium",
     "hullMods": [
         "targetingunit",
-        "fluxbreakers"
+        "stabilizedshieldemitter"
     ],
     "permaMods": [],
     "sMods": [],
@@ -75,6 +75,7 @@
     ],
     "wings": [
         "diableavionics_strife_wing",
+        "diableavionics_avalanche_wing",
         "diableavionics_avalanche_wing",
         "diableavionics_raven_wing"
     ]

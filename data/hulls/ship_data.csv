@@ -25,5 +25,5 @@ Daze,diableavionics_daze,Cruiser,Diable Avionics,diableavionics_fluxredirection,
 #Rime (P),diableavionics_rime_p,Q ship,Diable Avionics,microburn,10,6000,600,5500,,250,70,0,40,20,15,15,7,1750,OMNI,,150,0.5,1.1,,,70,150,300,125,3.5,,9,70000,5,20,420,0.1,14,14,,rare_bp,,0.5,2,3,,29
 Rime,diableavionics_rime_m,Recon Cruiser,Diable Avionics,diableavionics_capacitors,12,6000,600,5500,,250,120,2,50,20,15,15,7,1750,OMNI,,150,0.4,1,,,170,250,175,125,3.5,,9,90000,4,16,480,0.1,16,16,,diable_ship_bp,,0.5,2,3,,29
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Maelstrom,diableavionics_maelstrom,Battlecruiser,Diable Avionics,diableavionics_drift,26,13000,1100,18000,,1000,250,2,45,25,15,7,5,3250,OMNI,,120,0.4,1,,,430,550,325,300,10,,7,325000,2.5,15,660,0.075,45,45,,rare_bp,,0.6,2,4,,33
-Pandemonium,diableavionics_pandemonium,Dreadnought,Diable Avionics,diableavionics_drift,30,20000,1300,22000,,1200,370,3,30,12,8,4,2,5050,OMNI,,150,0.5,0.8,,,550,750,550,400,11,,7,525000,2,25,720,0.075,60,60,,rare_bp,0.1,0.75,3,5,,34
+Maelstrom,diableavionics_maelstrom,Battlecruiser,Diable Avionics,diableavionics_drift,26,13000,1100,18000,,1250,250,2,45,25,15,7,5,3250,OMNI,,120,0.4,1,,,430,550,325,300,10,,8,325000,2.5,15,660,0.075,45,45,,rare_bp,,0.6,2,4,,33
+Pandemonium,diableavionics_pandemonium,Dreadnought,Diable Avionics,diableavionics_drift,30,20000,1300,22000,,1750,385,4,30,12,8,4,2,5050,OMNI,,150,0.5,1,,,550,750,550,400,11,,7,525000,2,25,720,0.075,50,50,,rare_bp,0.1,0.75,3,5,,34

@@ -1,7 +1,6 @@
 SHIPS
 Frigates
 -Versant
-	- PPT penalty hullmod removed
 	- shield to 360 degrees, omni, 0.8
 -Draft
 	- gains 5 OP
@@ -47,8 +46,7 @@ Capitals
 	- shield to 120 degrees, omni
 	- gains 15 OP
 -Pandamonium
-	- shields to 150 degrees, omni, 0.8
-	- deck crew built in
+	- shields to 150 degrees, omni
 	- gain 10 op
 	
 	

@@ -1,10 +1,10 @@
 {
     "displayName": "Mind-Crusher",
-    "fluxCapacitors": 0,
+    "fluxCapacitors": 1,
     "fluxVents": 50,
     "goalVariant": true,
     "hullId": "diableavionics_pandemonium",
-    "hullMods": ["fluxbreakers"],
+    "hullMods": ["stabilizedshieldemitter"],
     "permaMods": [],
     "sMods": [],
     "variantId": "diableavionics_pandemonium_mindBlower",
@@ -72,6 +72,7 @@
         }
     ],
     "wings": [
+        "diableavionics_valiant_wing",
         "diableavionics_valiant_wing",
         "diableavionics_valiant_wing",
         "diableavionics_valiant_wing"

@@ -1,13 +1,13 @@
 {
     "displayName": "Guts-Ripper",
-    "fluxCapacitors": 0,
-    "fluxVents": 43,
+    "fluxCapacitors": 7,
+    "fluxVents": 50,
     "goalVariant": true,
     "hullId": "diableavionics_pandemonium",
     "hullMods": [
         "targetingunit",
-        "eccm",
-        "missleracks"
+        "missleracks",
+        "stabilizedshieldemitter"
     ],
     "permaMods": [],
     "sMods": [],
@@ -69,6 +69,7 @@
         }
     ],
     "wings": [
+        "diableavionics_arbitrator_wing",
         "diableavionics_arbitrator_wing",
         "diableavionics_arbitratorZ_wing",
         "diableavionics_arbitratorZ_wing"
