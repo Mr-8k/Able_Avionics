@@ -1,6 +1,9 @@
+1.0.2
+- adjustments post additional panda changes
+
 1.0.1
 - updated for diable 2.63
-- panda shield back to 1.0, built in deck removed (due to massive buffs)
+- panda shield back to 1.0, built in expanded decks removed (due to massive buffs)
 - no longer removes versant hullmod, since base diable now only blocks SO
 
 1.0.0

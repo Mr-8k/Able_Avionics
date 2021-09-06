@@ -46,7 +46,7 @@ Capitals
 	- shield to 120 degrees, omni
 	- gains 15 OP
 -Pandamonium
-	- shields to 150 degrees, omni
+	- shields to 150 degrees, omni, 0.85
 	- gain 10 op
 	
 	
