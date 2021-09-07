@@ -20,7 +20,8 @@ Destroyers
 	- now has wanzer gantry built in
 -Hayle 
 	- shield to 120 degrees
-	
+-[REDACTED]
+	- [REDACTED] PPT [REDACTED]
 	
 Cruisers
 -IBB Gulf
