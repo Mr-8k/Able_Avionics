@@ -2,12 +2,12 @@
   "id":"Able Avionics",
   "name":"Able Avionics",
   "author":"that one guy",
-  "version":"1.0.3",
+  "version":"1.0.4",
   "description":"Improves fun by about 25%",
   "gameVersion":"0.95a-RC15",
   "jars":["jars/Able_Avionics.jar"],
   "dependencies":[
-    {"id":"diableavionics", "name":"Diable Avionics", "version":{"major":2, "minor":63RC2}}
+    {"id":"diableavionics", "name":"Diable Avionics", "version":{"major":2, "minor":63RC4}}
 ],
   "replace": [
 "data/variants/diableavionics_daze_combat.variant",
