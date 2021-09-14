@@ -1,5 +1,5 @@
 {
-    "masterVersionFile":"https://raw.githubusercontent.com/Mr-8k/Able_Avionics/master/Able_Avionics.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/Mr-8k/Able_Avionics/master/Able%20Avionics%20-%20Sandwich%20edition/Able_Avionics_Sandwich.version",
     "modName":"Able Avionics - Sandwich edition",
     # The current patch number
     # Notation is major.minor.patch; trailing zeros are ignored
@@ -8,7 +8,7 @@
     "modVersion":
     {
         "major":1,
-        "minor":0,
+        "minor":1,
         "patch":0 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     }
 }

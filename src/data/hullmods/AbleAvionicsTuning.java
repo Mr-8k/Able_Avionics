@@ -11,7 +11,7 @@ import java.util.Map;
 import org.lazywizard.lazylib.MathUtils;
 import static data.scripts.util.Diableavionics_stringsManager.txt;
 
-public class DiableAvionicsTuning_butCooler extends BaseHullMod {
+public class AbleAvionicsTuning extends BaseHullMod {
     
 /*    private static float debuff=0;*/
     

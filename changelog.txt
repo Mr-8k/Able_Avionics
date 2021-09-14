@@ -1,5 +1,12 @@
 -Any version change that isn't listed only includes compatibility changes
 
+1.1.0
+- changed prefix of hullmod to avoid confusion
+- breaks saves, your save is gonna break if you update unless you replace instances of the hullmod with the new ID in your save
+
+1.0.3
+- panda regains part of its shield buffs post nerfs
+
 1.0.2
 - adjustments post additional panda changes
 

@@ -10,7 +10,7 @@ import java.awt.*;
 import java.util.EnumSet;
 
 
-public class DiableAvionicsUpgrade_Reborn extends BaseHullMod {
+public class AbleAvionicsUpgrade_Reborn extends BaseHullMod {
 
     private final float CHECK=1f;
     private float timer=0, previous=0;
@@ -95,7 +95,7 @@ public class DiableAvionicsUpgrade_Reborn extends BaseHullMod {
                 ship.getMutableStats().getEnergyWeaponDamageMult().modifyMult(ID, 1.1f);
             }
 
-            EnumSet WEAPON_TYPES = EnumSet.of(WeaponType.BALLISTIC,WeaponType.ENERGY);
+            EnumSet<WeaponType> WEAPON_TYPES = EnumSet.of(WeaponType.BALLISTIC,WeaponType.ENERGY);
 
 /*            if (0.01f < effectLevel && effectLevel <  0.25f){
                 ship.setWeaponGlow(
