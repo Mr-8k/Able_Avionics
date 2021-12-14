@@ -2,16 +2,18 @@
   "id":"Able Avionics",
   "name":"Able Avionics",
   "author":"that one guy",
-  "version":"1.1.0",
+  "version":"1.2.0",
   "description":"Improves fun by about 25%",
   "gameVersion":"0.95a-RC15",
   "jars":["jars/Able_Avionics.jar"],
   "dependencies":[
-    {"id":"diableavionics", "name":"Diable Avionics", "version":{"major":2, "minor":63RC4}}
+    {"id":"diableavionics", "name":"Diable Avionics", "version":{"major":2, "minor":64}}
 ],
   "replace": [
 "data/variants/diableavionics_daze_combat.variant",
 "data/variants/diableavionics_daze_craze.variant",
+"data/variants/diableavionics_daze_assault.variant",
+"data/variants/diableavionics_daze_beamer.variant",
 "data/variants/diableavionics_draft_assault.variant",
 "data/variants/diableavionics_draft_standard.variant",
 "data/variants/diableavionics_draft_support.variant",
@@ -54,8 +56,6 @@
 "data/variants/diableavionics_calm_brute.variant",
 "data/variants/diableavionics_calm_closequarter.variant",
 "data/variants/diableavionics_calm_mixed.variant",
-"data/variants/diableavionics_calm_standard.variant",
-"data/variants/diableavionics_daze_assault.variant",
-"data/variants/diableavionics_daze_beamer.variant"
+"data/variants/diableavionics_calm_standard.variant"
 ]
 }

@@ -1,10 +1,13 @@
 {
     "displayName": "Attack",
-    "fluxCapacitors": 10,
+    "fluxCapacitors": 8,
     "fluxVents": 10,
     "goalVariant": true,
     "hullId": "diableavionics_vapor",
-    "hullMods": ["stabilizedshieldemitter"],
+    "hullMods": [
+        "stabilizedshieldemitter",
+        "fluxdistributor"
+    ],
     "permaMods": [],
     "sMods": [],
     "variantId": "diableavionics_vapor_attack",

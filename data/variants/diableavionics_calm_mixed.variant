@@ -1,6 +1,6 @@
 {
     "displayName": "Mixed",
-    "fluxCapacitors": 15,
+    "fluxCapacitors": 16,
     "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_calm",

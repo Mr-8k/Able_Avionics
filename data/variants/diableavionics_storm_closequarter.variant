@@ -1,7 +1,7 @@
 {
     "displayName": "Close Quarter",
     "fluxCapacitors": 0,
-    "fluxVents": 25,
+    "fluxVents": 26,
     "goalVariant": true,
     "hullId": "diableavionics_storm",
     "hullMods": ["expanded_deck_crew"],

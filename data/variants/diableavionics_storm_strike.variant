@@ -1,7 +1,7 @@
 {
     "displayName": "Quick-Strike",
     "fluxCapacitors": 0,
-    "fluxVents": 16,
+    "fluxVents": 17,
     "goalVariant": true,
     "hullId": "diableavionics_storm",
     "hullMods": ["expanded_deck_crew"],

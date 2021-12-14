@@ -1,5 +1,8 @@
 -Any version change that isn't listed only includes compatibility changes
 
+1.2.0
+- variant updates for 0.95.1a
+
 1.1.0
 - changed prefix of hullmod to avoid confusion
 - breaks saves, your save is gonna break if you update unless you replace instances of the hullmod with the new ID in your save

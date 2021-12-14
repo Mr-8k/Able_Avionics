@@ -1,6 +1,6 @@
 {
     "displayName": "Will-Breaker",
-    "fluxCapacitors": 17,
+    "fluxCapacitors": 19,
     "fluxVents": 50,
     "goalVariant": true,
     "hullId": "diableavionics_pandemonium",
