@@ -7,8 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="starsector-core 095" level="application" />
-    <orderEntry type="library" name="LazyLib 095" level="application" />
     <orderEntry type="library" name="Diable_Avionics" level="project" />
+    <orderEntry type="library" name="LazyLib 0.95.1a" level="application" />
+    <orderEntry type="library" name="Starsector 0.95.1a" level="application" />
   </component>
 </module>

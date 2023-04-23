@@ -1,10 +1,10 @@
 {
     "displayName": "Assault",
-    "fluxCapacitors": 0,
-    "fluxVents": 21,
+    "fluxCapacitors": 15,
+    "fluxVents": 17,
     "goalVariant": true,
     "hullId": "diableavionics_storm",
-    "hullMods": [],
+    "hullMods": ["targetingunit"],
     "permaMods": [],
     "sMods": [],
     "variantId": "diableavionics_storm_assault",
@@ -19,15 +19,7 @@
             "mode": "ALTERNATING",
             "weapons": {
                 "WS0001": "diableavionics_thunderboltpod",
-                "WS0002": "diableavionics_thrush"
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS0005": "diableavionics_artdeux",
-                "WS0006": "diableavionics_artdeux"
+                "WS0002": "diableavionics_thunderboltpod"
             }
         },
         {
@@ -49,8 +41,7 @@
         }
     ],
     "wings": [
-        "diableavionics_raven_wing",
-        "diableavionics_blizzaia_wing",
-        "diableavionics_frost_wing"
+        "diableavionics_avalanche_wing",
+        "diableavionics_blizzaia_wing"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "displayName": "Support",
-    "fluxCapacitors": 0,
-    "fluxVents": 25,
+    "fluxCapacitors": 15,
+    "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_storm",
     "hullMods": [],
@@ -27,9 +27,7 @@
             "mode": "LINKED",
             "weapons": {
                 "WS0003": "diableavionics_srab",
-                "WS0004": "diableavionics_srab",
-                "WS0005": "diableavionics_srab",
-                "WS0006": "diableavionics_srab"
+                "WS0004": "diableavionics_srab"
             }
         },
         {
@@ -44,7 +42,6 @@
     ],
     "wings": [
         "diableavionics_warlust_wing",
-        "diableavionics_hoar_wing",
-        "diableavionics_frost_wing"
+        "diableavionics_zephyr_wing"
     ]
 }

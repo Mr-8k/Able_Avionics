@@ -1,10 +1,10 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 0,
-    "fluxVents": 18,
+    "fluxCapacitors": 15,
+    "fluxVents": 27,
     "goalVariant": true,
     "hullId": "diableavionics_storm",
-    "hullMods": [],
+    "hullMods": ["advancedoptics"],
     "permaMods": [],
     "sMods": [],
     "variantId": "diableavionics_storm_standard",
@@ -18,16 +18,8 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0001": "diableavionics_thrush",
-                "WS0002": "diableavionics_thrush"
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS0005": "diableavionics_glaux",
-                "WS0006": "diableavionics_glaux"
+                "WS0001": "diableavionics_thunderboltsmall",
+                "WS0002": "diableavionics_thunderboltsmall"
             }
         },
         {
@@ -49,8 +41,7 @@
         }
     ],
     "wings": [
-        "diableavionics_zephyr_wing",
-        "diableavionics_warlust_wing",
+        "diableavionics_strife_wing",
         "diableavionics_frost_wing"
     ]
 }

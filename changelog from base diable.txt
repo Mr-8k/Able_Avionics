@@ -1,7 +1,8 @@
 SHIPS
+
 Frigates
 -Versant
-	- shield to 360 degrees, omni, 0.8
+	- shield to 360 degrees, omni, 0.7
 -Draft
 	- gains 5 OP
 -Sleet
@@ -10,14 +11,12 @@ Frigates
 	- gain 5 OP
 	- shield arc to 120
 	
-	
-	
 Destroyers
 -Calm 
 	- gains 15 OP 
 	- shield to 0.9
 -Fractus
-	- now has wanzer gantry built in
+	- gains 15 OP
 -Hayle 
 	- shield to 120 degrees
 -[REDACTED]
@@ -38,17 +37,15 @@ Cruisers
 	- gain 10 OP
 -Storm
 	- gain 15 OP
-	- regain 3rd deck
-	- now 25dp up from 23
-	
-	
+
 Capitals
 -Maelstrom
 	- shield to 120 degrees, omni
 	- gains 15 OP
 -Pandamonium
 	- shields to 150 degrees, omni, 0.85
-	- gain 10 op
+	- gain 10 OP
+	- DP to 69(nice) from 75
 	
 	
 	
@@ -62,3 +59,7 @@ WEAPONS
 		- no longer require flux to fire
 		- lifetime to 25 seconds and range to 5000
 	- Uhlan siege laser is perfectly accurate
+	- SRAB
+	    - range to 1000 from 800
+	    - projectile HP double
+	    - (stop balancing around skills, it's stupid and so are you)

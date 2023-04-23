@@ -1,13 +1,14 @@
 {
     "displayName": "Maw",
-    "fluxCapacitors": 29,
+    "fluxCapacitors": 22,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "diableavionics_IBBgulf",
     "hullMods": [
         "fluxbreakers",
         "targetingunit",
-        "stabilizedshieldemitter"
+        "stabilizedshieldemitter",
+        "hardenedshieldemitter"
     ],
     "permaMods": [],
     "sMods": [],

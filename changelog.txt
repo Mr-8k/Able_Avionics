@@ -1,5 +1,10 @@
 -Any version change that isn't listed only includes compatibility changes
 
+1.3.0
+- update for diable 2.7.0 (hull changes n shit carried over)
+- versant shields to 0.7 (fck u)
+- fractus gains 15 OP instead of gantry
+
 1.2.0
 - variant updates for 0.95.1a
 

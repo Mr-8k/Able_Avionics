@@ -1,7 +1,7 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 0,
-    "fluxVents": 26,
+    "fluxCapacitors": 6,
+    "fluxVents": 20,
     "goalVariant": true,
     "hullId": "diableavionics_rime_m",
     "hullMods": ["missleracks"],
@@ -49,7 +49,7 @@
         }
     ],
     "wings": [
-        "diableavionics_arbitratorZ_wing",
-        "diableavionics_arbitrator_wing"
+        "diableavionics_strife_wing",
+        "diableavionics_frost_wing"
     ]
 }

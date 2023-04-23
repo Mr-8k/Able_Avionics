@@ -4,10 +4,10 @@
   "author":"that one guy",
   "version":"1.2.0",
   "description":"Improves fun by about 25%",
-  "gameVersion":"0.95a-RC15",
+  "gameVersion":"0.95.1a-RC6",
   "jars":["jars/Able_Avionics.jar"],
   "dependencies":[
-    {"id":"diableavionics", "name":"Diable Avionics", "version":{"major":2, "minor":64}}
+    {"id":"diableavionics", "name":"Diable Avionics", "version":{"major":2, "minor":70}}
 ],
   "replace": [
 "data/variants/diableavionics_daze_combat.variant",
@@ -56,6 +56,11 @@
 "data/variants/diableavionics_calm_brute.variant",
 "data/variants/diableavionics_calm_closequarter.variant",
 "data/variants/diableavionics_calm_mixed.variant",
-"data/variants/diableavionics_calm_standard.variant"
-]
+"data/variants/diableavionics_calm_standard.variant",
+"data/variants/diableavionics_fractus_standard.variant",
+"data/variants/diableavionics_fractus_support.variant",
+"data/variants/diableavionics_fractus_escort.variant",
+"data/variants/diableavionics_fractus_antiFighter.variant",
+"data/variants/diableavionics_fractus_attack.variant"
+  ]
 }
