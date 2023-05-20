@@ -7,7 +7,7 @@
   "gameVersion":"0.96a-RC69",
   "jars":["jars/Able_Avionics.jar"],
   "dependencies":[
-    {"id":"diableavionics", "name":"Diable Avionics", "version":{"major":2, "minor":70}}
+    {"id":"diableavionics", "name":"Diable Avionics", "version":{"major":2, "minor":7, "patch":"0rc3"}}
 ],
   "replace": [
 "data/variants/diableavionics_daze_combat.variant",
